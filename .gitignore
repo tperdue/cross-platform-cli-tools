@@ -1,0 +1,51 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env/
+.venv/
+*_venv/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyd
+*.pyo
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+
+# IDE-specific
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System-specific
+*.swp
+*.swo
+
+# Environment variable files
+.env
+
+# Node.js (if applicable for frontend development)
+node_modules/
+
+# Custom for this project
+output/
+config.json
