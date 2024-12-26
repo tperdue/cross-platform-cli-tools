@@ -88,7 +88,7 @@ I'll try to keep this projected updated and well maintained as possible. Feel fr
 ## Contact Me 📧
 I created this project to showcase my skills and build a portfolio. If you have any questions, would like to collaborate on projects, or discuss employment opportunities, feel free to reach out!
 
-- **Email**: your.email@example.com
+- **Email**: timaperduejr@gmail.com
 - **GitHub**: [tperdue](https://github.com/tperdue)
 - **LinkedIn**: [Tim Perdue](https://www.linkedin.com/in/tperdue/)
 
